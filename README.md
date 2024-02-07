@@ -1,2 +1,2 @@
 # books
-List of Subjects
+List of all Subjects telugu hindi english maths science social 
